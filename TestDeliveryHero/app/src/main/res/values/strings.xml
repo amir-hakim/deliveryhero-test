@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Delivery Hero</string>
+
+    <string name="toolbar_title">Album Photos</string>
+    <string name="loading">Loading ...</string>
+    <string name="fail_load_photos">Can\'t load the photos, please try again later.</string>
+
+    <string name="action_search">Search</string>
+</resources>

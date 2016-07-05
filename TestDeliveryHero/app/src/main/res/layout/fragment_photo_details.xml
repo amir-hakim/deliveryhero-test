@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+
+    <com.test.deliveryhero.view.components.ImageViewZoom
+        android:id="@+id/ivPhotoDetails"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <!--<TextView
+        android:id="@+id/tvTitlePhotosItem"
+        android:layout_below="@+id/ivThumbPhotosItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:background="#4A000000"
+        android:textColor="#ffffff"
+        android:padding="@dimen/activity_text_padding"
+        android:layout_gravity="bottom"/>-->
+</FrameLayout>
